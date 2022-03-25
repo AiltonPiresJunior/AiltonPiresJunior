@@ -40,5 +40,5 @@ Minha trajetória profissional começou na área da Segurança do trabalho, onde
 </p>
 
 <div>
-  ![Snake animation](https://github.com/AiltonPireJunior/AiltonPireJunior/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AiltonPiresJunior/AiltonPiresJunior/blob/output/github-contribution-grid-snake.svg)
 </div>
