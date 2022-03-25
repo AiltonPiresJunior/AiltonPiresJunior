@@ -29,7 +29,7 @@ No caminho para me tornar um especialista em java
 
   ### Profile visits
 <p align="center"> 
-   <img height="25px" alingn="center" src="https://profile-counter.glitch.me/rednand/count.svg" />
+   <img height="25px" alingn="center" src="https://profile-counter.glitch.me/AiltonPiresJunior/count.svg" />
  </p>
 
 </p>
