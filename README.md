@@ -17,7 +17,7 @@ No caminho para me tornar um especialista em java
   <img align="center" alt="React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 </div>
   ## 
- ### 📫 Para entrar em contato:
+ #### 📫 Para entrar em contato:
 <div>
   <a href = "mailto:ailtonsa.1612@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ailton-junior-602901145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
