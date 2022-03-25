@@ -36,9 +36,7 @@ Minha trajetória profissional começou na área da Segurança do trabalho, onde
 <p align="center"> 
    <img height="25px" alingn="center" src="https://profile-counter.glitch.me/AiltonPiresJunior/count.svg" />
  </p>
-
 </p>
-
 <div>
   ![Snake animation](https://github.com/AiltonPiresJunior/AiltonPiresJunior/blob/output/github-contribution-grid-snake.svg)
 </div>
