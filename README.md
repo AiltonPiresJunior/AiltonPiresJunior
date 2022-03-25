@@ -1,9 +1,14 @@
 ### Bem-Vindo! Eu sou o Ailton Junior
 Estudando Analise e Desenvolvimento de Sistemas<br>
-No caminho para me tornar um especialista em java
+No caminho para me tornar um especialista em java <br>
+
+Estudante de Analise e Desenvolvimento de Sistemas na São Judas Tadeu (Mooca), realizo alguns cursos em plataformas online para aperfeiçoamento, atualmente focado em Java com o intuito de ser um especialista.<br>
+
+Minha trajetória profissional começou na área da Segurança do trabalho, onde após concluir o curso iniciei minha carreira profissional como Auxiliar de vendas de EPI's. Fui responsável pelo acompanhamento de serviços em uma empresa terceirizada da Volkswagen focada em construção civil, instalações elétricas, instalações robóticas, manutenção em geral entre outras atividades. Atuei temporariamente em uma empresa de logística, distribuição urbana de bebidas, onde era responsável por todo o setor de Segurança da empresa, sendo submetido a auditoria interna, na qual atingi as metas estipuladas pela empresa.
 
 
-<div align="center" display="flex">
+
+<div align="center" display: inline-block>
 <a href="https://github.com/AiltonPiresJunior">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AiltonPiresJunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiltonPiresJunior&layout=compact&langs_count=7&theme=dark"/>
