@@ -22,5 +22,4 @@ No caminho para me tornar um especialista em java
   <a href = "mailto:ailtonsa.1612@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ailton-junior-602901145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="http://api.whatsapp.com/send?phone=5511984838481" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- ![Snake animation](https://github.com/Felipeb26/Felipeb26/blob/output/github-contribution-grid-snake.svg)
   </div>
