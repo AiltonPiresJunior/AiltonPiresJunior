@@ -1,4 +1,4 @@
-### Bem-Vindo! Eu sou o Ailton Junior - No caminho para me tornar um especialista em java
+### Bem-Vindo! Eu sou o Ailton Junior
 Estudante de Analise e Desenvolvimento de Sistemas na São Judas Tadeu (Mooca), realizo alguns cursos em plataformas online para aperfeiçoamento, atualmente focado em Java com o intuito de ser um especialista.<br>
 
 Minha trajetória profissional começou na área da Segurança do trabalho, onde após concluir o curso iniciei minha carreira profissional como Auxiliar de vendas de EPI's. Fui responsável pelo acompanhamento de serviços em uma empresa terceirizada da Volkswagen focada em construção civil, instalações elétricas, instalações robóticas, manutenção em geral entre outras atividades. Atuei temporariamente em uma empresa de logística, distribuição urbana de bebidas, onde era responsável por todo o setor de Segurança da empresa, sendo submetido a auditoria interna, na qual atingi as metas estipuladas pela empresa.
