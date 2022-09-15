@@ -7,7 +7,6 @@ Minha trajetória profissional começou na área da Segurança do trabalho, onde
 
 <div align="center" display: inline-block>
 <a href="https://github.com/AiltonPiresJunior">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AiltonPiresJunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiltonPiresJunior&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
