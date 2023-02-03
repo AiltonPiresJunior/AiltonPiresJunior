@@ -1,7 +1,11 @@
 ### Bem-Vindo! Eu sou o Ailton Junior
-Estudante de Analise e Desenvolvimento de Sistemas na São Judas Tadeu (Mooca), realizo alguns cursos em plataformas online para aperfeiçoamento, atualmente focado em Java com o intuito de ser um especialista.<br>
+Formado em Analise e Desenvolvimento de Sistemas na São Judas Tadeu (Mooca), atuando com Devops e a plataforma Azure.<br>
 
-Minha trajetória profissional começou na área da Segurança do trabalho, onde após concluir o curso iniciei minha carreira profissional como Auxiliar de vendas de EPI's. Fui responsável pelo acompanhamento de serviços em uma empresa terceirizada da Volkswagen focada em construção civil, instalações elétricas, instalações robóticas, manutenção em geral entre outras atividades. Atuei temporariamente em uma empresa de logística, distribuição urbana de bebidas, onde era responsável por todo o setor de Segurança da empresa, sendo submetido a auditoria interna, na qual atingi as metas estipuladas pela empresa.
+Vim para o área de TI através de uma transição de carreira onde eu não conseguia me ver trabalhando a longo prazo com minha antiga área.<br>
+
+Entrei no Grupo Multiplica no programa de estágio aberto para o setor de desenvolvimento onde fui alocado como back-end, obtive minhas primeiras experiências com Java, Spring Boot, SQL Server, entre outras tecnologias.<br>
+
+Migrei para infraestrutura para trabalhar com a cultura Devops, tendo como atividade o controle e atualização de versão de sistemas. Consegui implementar o processo de CI/CD com automação diretamente na plataforma do Azure Pipelines.<br>
 
 
 
