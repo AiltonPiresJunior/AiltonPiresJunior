@@ -42,7 +42,7 @@ Meu nome é  Ailton!
 
 </p>
 
-### Contact
+### Contatos
 
 <p align="center">
        <a href = "mailto:ailtonsa.1612@gmail.com">
