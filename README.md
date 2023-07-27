@@ -62,12 +62,4 @@ Meu nome é  Ailton!
 <p align="center"> 
    <img height="25px" alingn="center" src="https://profile-counter.glitch.me/AiltonPiresJunior/count.svg" />
  </p>
-
 </p>
-
-<div>
- 
- ![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
-
-</div>
- 
