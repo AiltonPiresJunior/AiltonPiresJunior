@@ -3,6 +3,12 @@
 
 Meu nome é  Ailton!
 
+Vim para o área de TI através de uma transição de carreira onde eu me identifiquei com a área da tecnologia, tenho gostado muito dos desafios que a área fornece e tenho adquirido experiência e conhecimento diariamente.
+
+Ingressei no mercado no programa de estágio aberto para o setor de desenvolvimento no Grupo Multiplica, onde pude estar tendo um contato dinâmico com ambiente de desenvolvimento atuando como Back-End, obtive minhas primeiras experiências reais com Java, Spring Boot, SQL Server, entre outras tecnologias.Migrei para trabalhar com a cultura DevOps, tendo como principal atividade o controle e atualização de versão de sistemas. 
+
+Fui responsável por implementar a automatização do processo de CI/CD, que foi um sucesso e aplicada para todos os projetos em desenvolvimento, otimizando muito o processo e agregando valor aos nossos produtos. Também faço o monitoramento dos ambientes de homologação e de produção, ajudando na identificação de instabilidades, erros e na resolução dos mesmos.
+
 <div align="left">
 
  - 👨‍💻 Analista Cloud.
