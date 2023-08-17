@@ -6,7 +6,7 @@ Meu nome é  Ailton!
 <div align="left">
 
  - 👨‍💻 Analista Cloud.
-- 🌱 Buscando evoluir nas tecnologias: Azure, Phyton, Grafana.
+- 🌱 Buscando evoluir nas tecnologias: Azure, Java, Grafana.
  
  </div>
 
