@@ -3,11 +3,11 @@
 
 Meu nome é  Ailton!
 
-Vim para o área de TI através de uma transição de carreira onde eu me identifiquei com a área da tecnologia, tenho gostado muito dos desafios que a área fornece e tenho adquirido experiência e conhecimento diariamente.
+Sou Analista Cloud com foco em DevOps, com experiência sólida em automação de pipelines CI/CD, Kubernetes (AKS), Docker, monitoramento com Grafana e versionamento com Git.
 
-Ingressei no mercado no programa de estágio aberto para o setor de desenvolvimento no Grupo Multiplica, onde pude estar tendo um contato dinâmico com ambiente de desenvolvimento atuando como Back-End, obtive minhas primeiras experiências reais com Java, Spring Boot, SQL Server, entre outras tecnologias.Migrei para trabalhar com a cultura DevOps, tendo como principal atividade o controle e atualização de versão de sistemas. 
+Apaixonado por tecnologia, entrei na área por meio de uma transição de carreira e, desde então, venho me aprofundando em soluções que aumentam a eficiência, confiabilidade e escalabilidade de ambientes em nuvem.
 
-Fui responsável por implementar a automatização do processo de CI/CD, que foi um sucesso e aplicada para todos os projetos em desenvolvimento, otimizando muito o processo e agregando valor aos nossos produtos. Também faço o monitoramento dos ambientes de homologação e de produção, ajudando na identificação de instabilidades, erros e na resolução dos mesmos.
+Atualmente atuo no Grupo Multiplica, onde contribuo diretamente com a estabilidade dos ambientes e a produtividade dos times de desenvolvimento. Busco constantemente aprender e aplicar boas práticas de DevOps e Cloud.
 
 <div align="left">
 
