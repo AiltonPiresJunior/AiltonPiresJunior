@@ -11,7 +11,7 @@ Atualmente atuo no Grupo Multiplica, onde contribuo diretamente com a estabilida
 
 <div align="left">
 
- - 👨‍💻 Analista Cloud Junior III.
+ - 👨‍💻 Analista Cloud/DevOps.
 - 🌱 Buscando evoluir nas tecnologias: Azure, Java, Grafana.
  
  </div>
